@@ -1,0 +1,25 @@
+/* Add your styling here */
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header, section, footer {
+    margin: 20px;
+}
+
+h1, h2 {
+    color: #333;
+}
+
+ul {
+    list-style-type: disc;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    margin: 10px 0; /* Optional: Adjust the margin as needed */
+}
+/* Add more styling as needed */
